@@ -44,6 +44,10 @@ http://localhost:3001/comments
 http://localhost:3001/profile
 ```
 
+# DEPLOY
+```
+$ fly deploy
+```
 
 # FROM
 https://www.npmjs.com/package/json-server
