@@ -22,9 +22,6 @@ http://localhost:3000/profile
 ```
 
 
-# FROM
-https://www.npmjs.com/package/json-server
-
 # port settings
 ```
 $ npx json-server --watch db.json --port 3001
@@ -46,4 +43,8 @@ http://localhost:3001/posts
 http://localhost:3001/comments
 http://localhost:3001/profile
 ```
+
+
+# FROM
+https://www.npmjs.com/package/json-server
 
